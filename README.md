@@ -1,4 +1,4 @@
-bench get-app https://github.com/resilient-tech/india-compliance.git
+bench get-app https://github.com/resilient-tech/india-compliance.git --branch develop
 
 <div align="center">
 
